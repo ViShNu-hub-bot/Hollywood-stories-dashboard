@@ -17,9 +17,9 @@ Using Power BI, this dashboard offers dynamic visualizations and insights into H
 
 ## Accessing the Dashboard
 
-You can access the dashboard in the following platforms:
+You can access the dashboard directly from the following platforms:
 
-- **GitHub:** [Download Power BI File](https://lnkd.in/gzjP6BTB)
-- **NovyPro:** [View Dashboard](https://lnkd.in/gQQ3zPxW)
+- [Download Power BI File](https://lnkd.in/gzjP6BTB)
+- [View Dashboard on NovyPro](https://lnkd.in/gQQ3zPxW)
 
 Feel free to explore and gain deep insights into Hollywood's most profitable stories using this interactive dashboard!
